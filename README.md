@@ -35,7 +35,8 @@ class Nikol {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML    21 mins         ██████████████████████▒░░   89.44 %
+Other   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
 ```
 
 <!--END_SECTION:waka-->
