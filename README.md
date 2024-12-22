@@ -37,11 +37,8 @@ class Nikol {
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       1 hr 24 mins    ██████████████████░░░░░░░   71.78 %
-JavaScript   25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.82 %
-YAML         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-Bash         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Svelte       1 hr 9 mins     █████████████████████████   99.65 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
