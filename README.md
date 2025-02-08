@@ -42,10 +42,8 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-
 ## $\textcolor{#D277AD}{Socials}$
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/NicoleAlexandrova](https://www.linkedin.com/in/nicole-alexandrova-5532992a0/)) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-alexandrova-5532992a0/)
 
 ## $\textcolor{#D277AD}{Top\ Contributed\ Repo}$
 ![](https://github-contributor-stats.vercel.app/api?username=NikolAlexandrova&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)     
