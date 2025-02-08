@@ -44,7 +44,7 @@ No activity tracked
 
 
 ## $\textcolor{#D277AD}{Socials}$
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NicoleAlexandrova) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/NicoleAlexandrova](https://www.linkedin.com/in/nicole-alexandrova-5532992a0/)) 
 
 
 ## $\textcolor{#D277AD}{Top\ Contributed\ Repo}$
