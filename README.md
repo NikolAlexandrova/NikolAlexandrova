@@ -37,8 +37,8 @@ class Nikol {
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   3 hrs 40 mins   ████████████▓░░░░░░░░░░░░   50.38 %
-HTML         3 hrs 37 mins   ████████████▒░░░░░░░░░░░░   49.62 %
+HTML         3 hrs 7 mins    ███████████████░░░░░░░░░░   60.02 %
+JavaScript   2 hrs 4 mins    ██████████░░░░░░░░░░░░░░░   39.98 %
 ```
 
 <!--END_SECTION:waka-->
