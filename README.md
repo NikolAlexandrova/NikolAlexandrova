@@ -37,7 +37,9 @@ class Nikol {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash         1 hr 18 mins    ██████████████▓░░░░░░░░░░   58.82 %
+HTML         29 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
+JavaScript   25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
 ```
 
 <!--END_SECTION:waka-->
