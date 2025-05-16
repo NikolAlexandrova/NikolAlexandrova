@@ -37,11 +37,11 @@ class Nikol {
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   1 hr 5 mins     ███████████░░░░░░░░░░░░░░   44.45 %
-Python           51 mins         ████████▓░░░░░░░░░░░░░░░░   35.04 %
-JSON             11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-Markdown         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-JavaScript       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Blade Template   1 hr 5 mins     ██████████▓░░░░░░░░░░░░░░   42.60 %
+Python           57 mins         █████████▒░░░░░░░░░░░░░░░   37.74 %
+JSON             11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+Markdown         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+JavaScript       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 ```
 
 <!--END_SECTION:waka-->
