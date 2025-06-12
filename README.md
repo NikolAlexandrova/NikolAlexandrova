@@ -37,7 +37,10 @@ class Nikol {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Blade Template   31 mins         ██████████████████░░░░░░░   71.83 %
+Python           7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+PHP              5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
