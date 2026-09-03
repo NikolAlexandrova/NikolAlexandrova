@@ -46,12 +46,10 @@ No activity tracked
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-alexandrova-5532992a0/)
 [![Personal Website](https://img.shields.io/badge/Visit%20My%20Website-Click%20Here-0078D4?style=flat-square&logo=github)](https://nikolalexandrova.github.io/PersonalWebsite/)
 
-## <h3 style="color:#D277AD;">Top Contributed Repo</h3>
-![](https://github-contributor-stats.vercel.app/api?username=NikolAlexandrova&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)     
 
+## GitHub Stats
 
-## <h3 style="color:#D277AD;">GitHub Stats</h3>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolAlexandrova&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolAlexandrova&layout=compact&theme=shadow_green)](https://github.com/NikolAlexandrova)
+
 [![](https://visitcount.itsvg.in/api?id=NikolAlexandrova&icon=7&color=5)](https://visitcount.itsvg.in)
 
