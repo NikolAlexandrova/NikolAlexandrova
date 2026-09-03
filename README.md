@@ -47,9 +47,5 @@ No activity tracked
 [![Personal Website](https://img.shields.io/badge/Visit%20My%20Website-Click%20Here-0078D4?style=flat-square&logo=github)](https://nikolalexandrova.github.io/PersonalWebsite/)
 
 
-## GitHub Stats
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolAlexandrova&layout=compact&theme=shadow_green)](https://github.com/NikolAlexandrova)
-
 [![](https://visitcount.itsvg.in/api?id=NikolAlexandrova&icon=7&color=5)](https://visitcount.itsvg.in)
 
